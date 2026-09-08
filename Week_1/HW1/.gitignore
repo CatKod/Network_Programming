@@ -1,0 +1,12 @@
+# Build artifacts
+bin/*
+!bin/.gitkeep
+build/*
+!build/.gitkeep
+
+# Program output (activity logs)
+logs/*
+!logs/.gitkeep
+
+# Editor settings
+.vscode/
