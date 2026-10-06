@@ -1,0 +1,8 @@
+# Build artifacts
+build/*
+!build/.gitkeep
+/resolver
+/resolver.exe
+
+# Editor settings
+.vscode/

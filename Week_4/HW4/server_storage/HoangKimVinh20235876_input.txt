@@ -1,0 +1,5 @@
+This is the personal test file for HoangKimVinh_20235876_HW4.
+It contains a few lines that exercise the B2 TCP file transfer server.
+The line below is the student identifier:
+HoangKimVinh20235876
+End of demo file.

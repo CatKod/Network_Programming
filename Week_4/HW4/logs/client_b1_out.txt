@@ -1,0 +1,2 @@
+[client_b1] Connected to 127.0.0.1:5500. Empty line to quit.
+Input string: [client_b1] Closing connection.

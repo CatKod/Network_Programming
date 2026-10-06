@@ -1,0 +1,7 @@
+1a2b3cd|abcd / 123
+123| / 123
+abcd|abcd / 
+Ab15CD$|Error: string contains an invalid character
+hoangkimvinh20235876|hoangkimvinh / 20235876
+HKV20235876|HKV / 20235876
+hoang$kImVInh|Error: string contains an invalid character

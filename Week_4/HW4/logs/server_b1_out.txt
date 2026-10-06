@@ -1,0 +1,51 @@
+[server_b1] Listening on port 5500 (student 20235876)...
+[server_b1] Connection from 127.0.0.1:63462
+[server_b1] Input: '1a2b3cd' -> letters='abcd', digits='123'
+[server_b1] Input: 'abcd' -> letters='abcd', digits=''
+[server_b1] Input: '123' -> letters='', digits='123'
+[server_b1] Input: 'Ab15CD$' -> Error (invalid character)
+[server_b1] Input: 'HoangKimVinh20235876' -> letters='HoangKimVinh', digits='20235876'
+[server_b1] Input: 'HKV20235876' -> letters='HKV', digits='20235876'
+[server_b1] Input: 'hoang$kImVInh' -> Error (invalid character)
+[server_b1] Input: 'hoangkimvinh2023' -> letters='hoangkimvinh', digits='2023'
+[server_b1] Connection from 127.0.0.1 closed
+[server_b1] Connection from 127.0.0.1:58541
+[server_b1] Input: '1a2b3cd' -> letters='abcd', digits='123'
+[server_b1] Input: 'abcd' -> letters='abcd', digits=''
+[server_b1] Input: '123' -> letters='', digits='123'
+[server_b1] Input: 'Ab15CD$' -> Error (invalid character)
+[server_b1] Input: 'HoangKimVinh20235876' -> letters='HoangKimVinh', digits='20235876'
+[server_b1] Input: 'HKV20235876' -> letters='HKV', digits='20235876'
+[server_b1] Input: 'hoang$kImVInh' -> Error (invalid character)
+[server_b1] Input: 'hoangkimvinh2023' -> letters='hoangkimvinh', digits='2023'
+[server_b1] Connection from 127.0.0.1 closed
+[server_b1] Connection from 127.0.0.1:58607
+[server_b1] Input: '1a2b3cd' -> letters='abcd', digits='123'
+[server_b1] Input: 'abcd' -> letters='abcd', digits=''
+[server_b1] Input: '123' -> letters='', digits='123'
+[server_b1] Input: 'Ab15CD$' -> Error (invalid character)
+[server_b1] Input: 'HoangKimVinh20235876' -> letters='HoangKimVinh', digits='20235876'
+[server_b1] Input: 'HKV20235876' -> letters='HKV', digits='20235876'
+[server_b1] Input: 'hoang$kImVInh' -> Error (invalid character)
+[server_b1] Input: 'hoangkimvinh2023' -> letters='hoangkimvinh', digits='2023'
+[server_b1] Connection from 127.0.0.1 closed
+[server_b1] Connection from 127.0.0.1:52676
+[server_b1] Input: '1a2b3cd' -> letters='abcd', digits='123'
+[server_b1] Input: 'abcd' -> letters='abcd', digits=''
+[server_b1] Input: '123' -> letters='', digits='123'
+[server_b1] Input: 'Ab15CD$' -> Error (invalid character)
+[server_b1] Input: 'HoangKimVinh20235876' -> letters='HoangKimVinh', digits='20235876'
+[server_b1] Input: 'HKV20235876' -> letters='HKV', digits='20235876'
+[server_b1] Input: 'hoang$kImVInh' -> Error (invalid character)
+[server_b1] Input: 'hoangkimvinh2023' -> letters='hoangkimvinh', digits='2023'
+[server_b1] Connection from 127.0.0.1 closed
+[server_b1] Connection from 127.0.0.1:52837
+[server_b1] Input: '1a2b3cd' -> letters='abcd', digits='123'
+[server_b1] Input: 'abcd' -> letters='abcd', digits=''
+[server_b1] Input: '123' -> letters='', digits='123'
+[server_b1] Input: 'Ab15CD$' -> Error (invalid character)
+[server_b1] Input: 'HoangKimVinh20235876' -> letters='HoangKimVinh', digits='20235876'
+[server_b1] Input: 'HKV20235876' -> letters='HKV', digits='20235876'
+[server_b1] Input: 'hoang$kImVInh' -> Error (invalid character)
+[server_b1] Input: 'hoangkimvinh2023' -> letters='hoangkimvinh', digits='2023'
+[server_b1] Connection from 127.0.0.1 closed

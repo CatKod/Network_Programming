@@ -1,0 +1,8 @@
+/* Keep build artefacts out of version control */
+build/*
+!build/.gitkeep
+bin/*
+!bin/.gitkeep
+
+/* Editor settings */
+.vscode/

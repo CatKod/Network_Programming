@@ -1,0 +1,17 @@
+[server_b2] Listening on port 5600, storing files in 'server_storage'
+[server_b2] Connection from 127.0.0.1:63516
+[server_b2] File 'HoangKimVinh20235876_input.txt' received (213 bytes) -> OK
+[server_b2] File 'HoangKimVinh20235876_input.txt' already exists -> reject
+[server_b2] Connection from 127.0.0.1 closed
+[server_b2] Connection from 127.0.0.1:58542
+[server_b2] File 'HoangKimVinh20235876_input.txt' already exists -> reject
+[server_b2] Connection from 127.0.0.1 closed
+[server_b2] Connection from 127.0.0.1:58608
+[server_b2] File 'HoangKimVinh20235876_input.txt' already exists -> reject
+[server_b2] Connection from 127.0.0.1 closed
+[server_b2] Connection from 127.0.0.1:52677
+[server_b2] File 'HoangKimVinh20235876_input.txt' already exists -> reject
+[server_b2] Connection from 127.0.0.1 closed
+[server_b2] Connection from 127.0.0.1:52838
+[server_b2] File 'HoangKimVinh20235876_input.txt' already exists -> reject
+[server_b2] Connection from 127.0.0.1 closed
